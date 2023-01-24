@@ -1,4 +1,4 @@
-# JavaScript Note:
+# JavaScript Notes:
  ## Mutability
 > Javascript have 7 premitive data types, (string, number, bigint, bool, undefined, null, & symbol), these are immutable, We cannot change it's value, we only can reassign. 
 Eexample bellow.
