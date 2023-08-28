@@ -16,13 +16,3 @@
 
 
 
-* OOP
-* this.value // here this refers to the object itself. 
-* Constructor In Java,
-* By default java create non param constructor internally, but if we define non-params constructor, it will called the created one
-* Can be multiple constructor based on params.
-* Copy constructor => copy an object's properties to another.
-
-
-
-
